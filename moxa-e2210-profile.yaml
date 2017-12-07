@@ -14,7 +14,7 @@
 ##
 ## Version 2 - 11/26/17
 ##################################################################################
-name: "moxa.iologik.e2210"
+name: "moxa-iologik-e2210"
 manufacturer: "Moxa"
 model: "e2210"
 labels: [ 'snmp', 'rtu', 'io' ]
